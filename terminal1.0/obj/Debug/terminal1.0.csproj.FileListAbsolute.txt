@@ -1,0 +1,14 @@
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\bin\Debug\terminal1.0.exe.config
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\bin\Debug\terminal1.0.exe
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\bin\Debug\terminal1.0.pdb
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\obj\Debug\terminal1.0.csprojResolveAssemblyReference.cache
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\obj\Debug\terminal1._0.Properties.Resources.resources
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\obj\Debug\terminal1.0.csproj.GenerateResource.Cache
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\obj\Debug\terminal1.0.exe
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\obj\Debug\terminal1.0.pdb
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\obj\Debug\terminal1._0.frmLogin.resources
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\obj\Debug\terminal1._0.frmAddAdmin.resources
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\obj\Debug\terminal1._0.frmAdminstrator.resources
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\obj\Debug\terminal1._0.frmForgetPassword.resources
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\obj\Debug\terminal1._0.frmMain.resources
+E:\poroject for apply\terminal_system\terminal1.0\terminal1.0\obj\Debug\terminal1._0.About.aboutProgram.resources
